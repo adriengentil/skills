@@ -1,0 +1,21 @@
+{
+  "name": "adriengentil-skills",
+  "displayName": "Adrien Gentil's Skills",
+  "description": "A collection of productivity skills for GitHub workflows and project management",
+  "version": "1.0.0",
+  "author": {
+    "name": "Adrien Gentil",
+    "url": "https://github.com/adriengentil"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/adriengentil/skills"
+  },
+  "skills": [
+    {
+      "path": "pr-dashboard",
+      "name": "pr-dashboard",
+      "description": "List and classify open PRs from a GitHub organization updated in a specified time range (default 1 day), prioritizing those waiting for your review, with approval recommendations"
+    }
+  ]
+}
